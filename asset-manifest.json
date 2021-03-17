@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/netflixRemake/static/css/main.2212f5d4.chunk.css",
+    "main.js": "/netflixRemake/static/js/main.997f4130.chunk.js",
+    "main.js.map": "/netflixRemake/static/js/main.997f4130.chunk.js.map",
+    "runtime-main.js": "/netflixRemake/static/js/runtime-main.990cdb3a.js",
+    "runtime-main.js.map": "/netflixRemake/static/js/runtime-main.990cdb3a.js.map",
+    "static/js/2.e4be9197.chunk.js": "/netflixRemake/static/js/2.e4be9197.chunk.js",
+    "static/js/2.e4be9197.chunk.js.map": "/netflixRemake/static/js/2.e4be9197.chunk.js.map",
+    "index.html": "/netflixRemake/index.html",
+    "static/css/main.2212f5d4.chunk.css.map": "/netflixRemake/static/css/main.2212f5d4.chunk.css.map",
+    "static/js/2.e4be9197.chunk.js.LICENSE.txt": "/netflixRemake/static/js/2.e4be9197.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.990cdb3a.js",
+    "static/js/2.e4be9197.chunk.js",
+    "static/css/main.2212f5d4.chunk.css",
+    "static/js/main.997f4130.chunk.js"
+  ]
+}
